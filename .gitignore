@@ -1,1 +1,4 @@
-
+#ignoring files
+*project.pbxproj
+*project.xcworkspace
+*xcuserdata/sonialopchan.xcuserdatad/xcschemes
